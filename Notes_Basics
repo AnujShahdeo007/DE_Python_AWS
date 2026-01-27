@@ -1,0 +1,89 @@
+What Is Python?
+
+- Programming Language 
+- Simple (like Engilish )
+- Used In 
+    - Web Applications 
+    - Data Enginerring 
+    - AI/ML 
+    - Automation 
+    - Testing 
+
+How Python Runs a Program 
+-------------------------
+x=10
+y=20
+print(x+y)
+
+Step 1: Python Interprepter Starts 
+    - When you click Run - The Python Interpreper Starts 
+        - The interpreter is repsonsible for: 
+            - Reading code 
+            - checking rules 
+            - Excuting instractions 
+
+step 2 : Read code line by line 
+    - Python reads the program from top to bottom 
+
+    Order Matters 
+    -------------
+    Line 1: x=10
+    line 2: y=20
+    line 3: print(x+y)
+
+Step 3 : Tokenization ( Breaking code )
+
+    - Python breaks each line into token( samll meaningfull part)
+
+    x=10 
+
+    Token 
+
+    x = 10 
+ Step 4: Stantax Checking 
+
+    - Are keywords are correct 
+    - Are brackts are correct 
+    - Are quotes are correct 
+
+    -----> Syntax Error 
+
+Step 5: Convert to bytecode
+
+    - If syntax correct 
+        - Python converts code into bytecode 
+        - Bytecode is a low level instarction not machine code 
+        
+Step 6: Excution 
+
+Line by line 
+
+
+***************************************************************************************************************************
+*                                                      Variables                                                          *
+***************************************************************************************************************************
+
+
+Variables :
+
+    - A variable is a name you give to a value so you can use it again.
+
+Example 
+
+name="Nilam"
+age=20
+
+Why do we need vairable:
+
+Without variable you'd reperat value again and again 
+
+print("Nilam")
+print("Nilam)
+
+with Variable
+---------------
+
+name="Nilam"
+
+print(name)
+print(name)
