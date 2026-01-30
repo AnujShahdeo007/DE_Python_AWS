@@ -87,3 +87,135 @@ name="Nilam"
 
 print(name)
 print(name)
+
+Common Mistakes 
+---------------
+1. USing variables before defining 
+
+2. Case Sensitive 
+    Name="A"
+    print(name) #Name Error
+
+3. Wrong Naming 
+
+    1name= --------> Cannot start with number 
+    my-name="A" ------means - (subtraction)   ###my_name
+
+4. Allowed 
+
+    my_name 
+    _name
+    name1
+
+Practice Questions 
+-------------------
+
+1. Store your name and age and print my name is ----- and age is ------
+
+***************************************************************************************************************************
+*                                                      Datatypes                                                          *
+***************************************************************************************************************************
+
+What is dataype?
+
+A data type tells python what kind of value a variable is holding.
+
+x=10 # Number 
+y="Hello" #text 
+
+
+## 
+
+Python is Dynamically Typed 
+
+This means 
+
+    - We dont declare type explicitly 
+    - Python decides type at runtime 
+
+Built- in data type 
+-------------------
+
+int     Integer     10,-5 
+
+    - Whole number 
+    - No decimal 
+
+
+float   Decimal     10.5
+
+str     String      "Hello"
+
+bool    Boolean      True/False 
+
+
+
+Categories of datatype 
+-----------------------
+
+1. Numeric 
+
+    Interger (int)
+        - Whole Numbers 
+        - No decimal value 
+
+        (-10,0,5,100)
+
+        Charactriestics:
+            - Can be positive or negative 
+            - No Size Limit (Python handles big integers)
+            - Immutable ( Cannot be changes in place )
+
+    Floating (Float)
+
+        - Numbers with decimal values 
+
+        (3.14,10.5,-2.0)
+
+        Charctristics 
+        -------------
+            - Immutable 
+            - Can cause precision issues 
+
+    Complex
+    --------
+
+    Used in scientific calculations 
+    3+4j 
+
+
+2. Sequence 
+
+    String (str)
+        - A sequence of character 
+        - Used to store text 
+
+        "Hello" "world"
+
+
+    Rules 
+        - Written inside quotes 
+        - Quotes define text and not value 
+    characteristics 
+        - Ordered 
+        - immutable 
+        - Can be indexded 
+
+    Internelly 
+        - Each charcter stored sequentially 
+        - String object created in memory 
+    
+    List 
+
+    Tuple 
+
+    
+
+
+3. Boolean
+
+4. Set 
+
+5. Mapping 
+
+6. None Type 
