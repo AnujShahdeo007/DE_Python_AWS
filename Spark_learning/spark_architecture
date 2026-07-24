@@ -1,0 +1,11 @@
+digraph "Spark Architecture" {
+	Driver [label="Driver Program"]
+	CM [label="Cluster Manager"]
+	E1 [label="Executor 1"]
+	E2 [label="Executor 2"]
+	E3 [label="Executor 3"]
+	Driver -> CM
+	CM -> E1
+	CM -> E2
+	CM -> E3
+}
