@@ -1,0 +1,52 @@
+1. Aggregate Functions 
+Aggreagate function perform calculations on multiple rows and return a single value.
+
+    COUNT() rows count
+    SUM()   total value 
+    AVG()   
+    MAX()
+    MIN() 
+
+    SELECT * from emp;
+
+    select count(*) from emp;
+
+    select sum(sal) from emp;
+
+    SELECT AVG(sal) from emp;
+
+    SELECT MAX(sal) from emp;
+
+    SELECT MIN(sal) from emp;
+
+FROM 
+WHERE 
+GROUP BY 
+HAVING
+SELECT 
+ORDER BY  
+
+select dept,AVg(sal) from emp commwhere avg(sal) > 60000
+group by dept;
+
+
+
+SELECT dept,sum(sal)
+from emp
+where sal>50000
+group by dept
+having sum(sal)>100000
+
+
+
+
+Group By 
+Having 
+SQL Joins 
+Subqeries 
+SQL views 
+SQL Index 
+SQL constraints 
+Windows Functions 
+CTE (common table expression)
+Set operators 

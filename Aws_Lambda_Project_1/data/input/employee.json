@@ -1,0 +1,22 @@
+[
+    {
+        "emp_id": 1,
+        "name": "Anuj",
+        "department": "Data Engineering",
+        "salary": 95000
+    },
+    {
+        "emp_id": 2,
+        "name": "Rahul",
+        "department": "AWS",
+        "salary": 85000
+    },
+    {
+        "emp_id": 3,
+        "name": "Priya",
+        "department": "Python",
+        "salary": 92000
+    }
+]
+
+

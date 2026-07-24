@@ -1,0 +1,89 @@
+Module:1 Introduction 
+    - Big Data 
+    - RDBMS 
+    - Distrubuted Computing 
+    - Spark vs Hadoop Mapreduce 
+    - Hadoop 
+    - Batch vs Real time processing 
+
+Hands on :
+
+    - Intsall Spark 
+    - Spark job 
+
+Module 2: Spark Architecture 
+    - Driver,Executor,CM 
+    - Spark Conponents 
+        - Spark Core 
+        - Spark SQL 
+        - Spark Streaming 
+    - Execution Flow 
+        - job->Stage->Task 
+    - DAG 
+
+Hands on:
+    - How Spark creates DAG 
+    - Lazy evalution 
+    - Fault tolrance 
+
+Module : 3 Spark Session 
+
+    - 
+
+Module : 4 RDD 
+
+    - What is RDD 
+    - Immutable & distributed 
+    - Trsanformation and Actions 
+    - Types 
+        - Parallezied RDD 
+        - External RDD 
+
+Module 5: Dataframe 
+
+
+Module 6: Spark SQL 
+
+Module 7: File Handling 
+
+    - Read/write 
+        -CSV
+        -JSON
+        -PARQUET
+
+Concept:
+
+    - Partitioning 
+    - Cpmpression 
+    - Schema Infrence 
+
+Module:8 Spark Trasnformation (Advance) - VVI
+
+    - Joins 
+        - inner 
+        - left
+        - Broadcast join 
+
+    - Aggregation 
+        - groupby 
+        - window fn 
+
+Module 9: Spark Optimization - VVVVVVVVVI 
+
+
+
+Module 10:  Sprak DAg & Execution PLAN (Interview)
+
+
+Module 11: Spark Streaming 
+
+
+
+Module 12: Spark + AWS integration 
+
+Module 13: Interview Preparation 
+
+
+
+
+

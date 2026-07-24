@@ -1,0 +1,67 @@
+Introduction to database:
+
+    - Database 
+    - DMBS 
+    - RDBMS 
+    - Popular Databses 
+        - MYSQL 
+        - PostgreSQL 
+        - Oracle 
+        - SQL server 
+        - Snowflake
+        - Redshift 
+
+    - What is SQL 
+    - Type of SQL lang 
+
+
+-------------------------------------------------------
+
+DDl,DML,DQL,TCL,DCL 
+
+-------------------------------------------------------
+
+SQL Dataype :
+
+    Numeric 
+    Charcter 
+    Data and time 
+    Boolean 
+
+Comparision operator 
+
+Logical operator 
+
+Sorting data 
+
+    Order By 
+
+
+1. Aggregate Functions 
+2. Group By 
+3. Having 
+4. SQL Joins 
+5. Subqeries 
+6. SQL views 
+7. SQL Index 
+8. SQL constraints 
+9. Windows Functions 
+10. CTE (common table expression)
+11. Set operators 
+
+
+
+Advance SQL :
+
+    - Windows functions 
+    - Recurive CTE
+    - pivot and Unpivot 
+    - JSON handling 
+    - Partitioning 
+    - Indexing tunining 
+    - Execution Plan 
+    - Query optimization 
+
+SQL Performance 
+    - Indexing 
+

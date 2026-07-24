@@ -1,12 +1,25 @@
-.DS_Store
-# Python
+# Virtual environments
 .venv/
 venv/
+Spark_learning/.venv/
+Underatnding_Virtual_Env/venv/
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
 
 # Jupyter
 .ipynb_checkpoints/
 
 # macOS
 .DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Git backup
+.git_backup/

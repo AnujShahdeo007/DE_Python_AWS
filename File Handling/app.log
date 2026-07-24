@@ -1,0 +1,981 @@
+2026-03-26 09:20:16, INFO, Process Starated
+2026-03-26 09:20:16, INFO, Reading Line 1
+2026-03-26 09:20:16, ERROR, Invalid marks at line 1:student_id,name,marks
+2026-03-26 09:20:16, INFO, Reading Line 2
+2026-03-26 09:20:16, INFO, Successfully processed student_id=101
+2026-03-26 09:20:16, INFO, Reading Line 3
+2026-03-26 09:20:16, ERROR, Invalid marks at line 3:102,Amit,abc
+2026-03-26 09:20:16, INFO, Reading Line 4
+2026-03-26 09:20:16, INFO, Successfully processed student_id=103
+2026-03-26 09:20:16, INFO, Reading Line 5
+2026-03-26 09:20:16, INFO, Successfully processed student_id=104
+2026-03-26 09:20:16, INFO, Reading Line 6
+2026-03-26 09:20:16, INFO, Successfully processed student_id=105
+2026-03-26 09:20:16, INFO, Reading Line 7
+2026-03-26 09:20:16, INFO, Successfully processed student_id=106
+2026-03-26 09:20:16, INFO, Process Completed. Total=7,success=5,Failed=2
+2026-03-26 09:27:31, INFO, Process Starated
+2026-03-26 09:27:31, INFO, Reading Line 1
+2026-03-26 09:27:31, ERROR, Invalid marks at line 1:student_id,name,marks
+2026-03-26 09:27:31, INFO, Reading Line 2
+2026-03-26 09:27:31, INFO, Successfully processed student_id=101
+2026-03-26 09:27:31, INFO, Reading Line 3
+2026-03-26 09:27:31, ERROR, Invalid marks at line 3:102,Amit,abc
+2026-03-26 09:27:31, INFO, Reading Line 4
+2026-03-26 09:27:31, INFO, Successfully processed student_id=103
+2026-03-26 09:27:31, INFO, Reading Line 5
+2026-03-26 09:27:31, INFO, Successfully processed student_id=104
+2026-03-26 09:27:31, INFO, Reading Line 6
+2026-03-26 09:27:31, INFO, Successfully processed student_id=105
+2026-03-26 09:27:31, INFO, Reading Line 7
+2026-03-26 09:27:31, INFO, Successfully processed student_id=106
+2026-03-26 09:27:31, INFO, Process Completed. Total=7,success=5,Failed=2
+2026-03-26 09:28:29, INFO, Process Starated
+2026-03-26 09:28:29, INFO, Reading Line 1
+2026-03-26 09:28:29, ERROR, Invalid marks at line 1:student_id,name,marks
+2026-03-26 09:28:29, INFO, Reading Line 2
+2026-03-26 09:28:29, INFO, Successfully processed student_id=101
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 3
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 4
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 5
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 6
+2026-03-26 09:28:29, INFO, Reading Line 7
+2026-03-26 09:28:29, ERROR, Invalid marks at line 7:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 8
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 9
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 10
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 11
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 12
+2026-03-26 09:28:29, ERROR, Invalid marks at line 12:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 13
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 14
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 15
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 16
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 17
+2026-03-26 09:28:29, ERROR, Invalid marks at line 17:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 18
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 19
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 20
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 21
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 22
+2026-03-26 09:28:29, ERROR, Invalid marks at line 22:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 23
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 24
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 25
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 26
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 27
+2026-03-26 09:28:29, ERROR, Invalid marks at line 27:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 28
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 29
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 30
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 31
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 32
+2026-03-26 09:28:29, ERROR, Invalid marks at line 32:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 33
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 34
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 35
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 36
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 37
+2026-03-26 09:28:29, INFO, Reading Line 38
+2026-03-26 09:28:29, ERROR, Invalid marks at line 38:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 39
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 40
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 41
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 42
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 43
+2026-03-26 09:28:29, ERROR, Invalid marks at line 43:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 44
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 45
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 46
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 47
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 48
+2026-03-26 09:28:29, ERROR, Invalid marks at line 48:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 49
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 50
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 51
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 52
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 53
+2026-03-26 09:28:29, INFO, Reading Line 54
+2026-03-26 09:28:29, ERROR, Invalid marks at line 54:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 55
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 56
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 57
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 58
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 59
+2026-03-26 09:28:29, ERROR, Invalid marks at line 59:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 60
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 61
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 62
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 63
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 64
+2026-03-26 09:28:29, ERROR, Invalid marks at line 64:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 65
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 66
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 67
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 68
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 69
+2026-03-26 09:28:29, ERROR, Invalid marks at line 69:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 70
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 71
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 72
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 73
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 74
+2026-03-26 09:28:29, ERROR, Invalid marks at line 74:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 75
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 76
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 77
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 78
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 79
+2026-03-26 09:28:29, ERROR, Invalid marks at line 79:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 80
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 81
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 82
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 83
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 84
+2026-03-26 09:28:29, ERROR, Invalid marks at line 84:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 85
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 86
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 87
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 88
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 89
+2026-03-26 09:28:29, ERROR, Invalid marks at line 89:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 90
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 91
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 92
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 93
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 94
+2026-03-26 09:28:29, ERROR, Invalid marks at line 94:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 95
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 96
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 97
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 98
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 99
+2026-03-26 09:28:29, ERROR, Invalid marks at line 99:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 100
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 101
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 102
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 103
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 104
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 105
+2026-03-26 09:28:29, INFO, Reading Line 106
+2026-03-26 09:28:29, ERROR, Invalid marks at line 106:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 107
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 108
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 109
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 110
+2026-03-26 09:28:29, ERROR, Invalid format at line 110:106,Anjali,91102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 111
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 112
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 113
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 114
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 115
+2026-03-26 09:28:29, INFO, Reading Line 116
+2026-03-26 09:28:29, ERROR, Invalid marks at line 116:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 117
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 118
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 119
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 120
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 121
+2026-03-26 09:28:29, ERROR, Invalid marks at line 121:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 122
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 123
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 124
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 125
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 126
+2026-03-26 09:28:29, ERROR, Invalid marks at line 126:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 127
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 128
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 129
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 130
+2026-03-26 09:28:29, ERROR, Invalid format at line 130:106,Anjali,91102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 131
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 132
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 133
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 134
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 135
+2026-03-26 09:28:29, ERROR, Invalid marks at line 135:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 136
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 137
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 138
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 139
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 140
+2026-03-26 09:28:29, INFO, Reading Line 141
+2026-03-26 09:28:29, ERROR, Invalid marks at line 141:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 142
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 143
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 144
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 145
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 146
+2026-03-26 09:28:29, ERROR, Invalid marks at line 146:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 147
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 148
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 149
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 150
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 151
+2026-03-26 09:28:29, ERROR, Invalid marks at line 151:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 152
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 153
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 154
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 155
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 156
+2026-03-26 09:28:29, ERROR, Invalid marks at line 156:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 157
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 158
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 159
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 160
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 161
+2026-03-26 09:28:29, ERROR, Invalid marks at line 161:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 162
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 163
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 164
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 165
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 166
+2026-03-26 09:28:29, ERROR, Invalid marks at line 166:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 167
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 168
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 169
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 170
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 171
+2026-03-26 09:28:29, ERROR, Invalid marks at line 171:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 172
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 173
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 174
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 175
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 176
+2026-03-26 09:28:29, ERROR, Invalid marks at line 176:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 177
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 178
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 179
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 180
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 181
+2026-03-26 09:28:29, ERROR, Invalid marks at line 181:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 182
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 183
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 184
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 185
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 186
+2026-03-26 09:28:29, ERROR, Invalid marks at line 186:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 187
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 188
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 189
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 190
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 191
+2026-03-26 09:28:29, ERROR, Invalid marks at line 191:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 192
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 193
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 194
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 195
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 196
+2026-03-26 09:28:29, ERROR, Invalid marks at line 196:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 197
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 198
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 199
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 200
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 201
+2026-03-26 09:28:29, ERROR, Invalid marks at line 201:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 202
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 203
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 204
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 205
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 206
+2026-03-26 09:28:29, ERROR, Invalid marks at line 206:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 207
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 208
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 209
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 210
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 211
+2026-03-26 09:28:29, ERROR, Invalid marks at line 211:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 212
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 213
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 214
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 215
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 216
+2026-03-26 09:28:29, ERROR, Invalid marks at line 216:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 217
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 218
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 219
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 220
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 221
+2026-03-26 09:28:29, ERROR, Invalid marks at line 221:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 222
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 223
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 224
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 225
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 226
+2026-03-26 09:28:29, ERROR, Invalid marks at line 226:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 227
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 228
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 229
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 230
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 231
+2026-03-26 09:28:29, ERROR, Invalid marks at line 231:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 232
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 233
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 234
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 235
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 236
+2026-03-26 09:28:29, ERROR, Invalid marks at line 236:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 237
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 238
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 239
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 240
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 241
+2026-03-26 09:28:29, ERROR, Invalid marks at line 241:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 242
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 243
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 244
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 245
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 246
+2026-03-26 09:28:29, ERROR, Invalid marks at line 246:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 247
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 248
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 249
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 250
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 251
+2026-03-26 09:28:29, ERROR, Invalid marks at line 251:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 252
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 253
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 254
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 255
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 256
+2026-03-26 09:28:29, ERROR, Invalid marks at line 256:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 257
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 258
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 259
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 260
+2026-03-26 09:28:29, ERROR, Invalid format at line 260:106,Anjali,91102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 261
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 262
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 263
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 264
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 265
+2026-03-26 09:28:29, INFO, Reading Line 266
+2026-03-26 09:28:29, ERROR, Invalid marks at line 266:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 267
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 268
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 269
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 270
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 271
+2026-03-26 09:28:29, ERROR, Invalid marks at line 271:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 272
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 273
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 274
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 275
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 276
+2026-03-26 09:28:29, ERROR, Invalid marks at line 276:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 277
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 278
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 279
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 280
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 281
+2026-03-26 09:28:29, ERROR, Invalid marks at line 281:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 282
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 283
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 284
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 285
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 286
+2026-03-26 09:28:29, ERROR, Invalid marks at line 286:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 287
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 288
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 289
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 290
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 291
+2026-03-26 09:28:29, ERROR, Invalid marks at line 291:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 292
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 293
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 294
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 295
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 296
+2026-03-26 09:28:29, ERROR, Invalid marks at line 296:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 297
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 298
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 299
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 300
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 301
+2026-03-26 09:28:29, ERROR, Invalid marks at line 301:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 302
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 303
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 304
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 305
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 306
+2026-03-26 09:28:29, ERROR, Invalid marks at line 306:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 307
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 308
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 309
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 310
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 311
+2026-03-26 09:28:29, ERROR, Invalid marks at line 311:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 312
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 313
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 314
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 315
+2026-03-26 09:28:29, ERROR, Invalid format at line 315:106,Anjali,91102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 316
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 317
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 318
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 319
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 320
+2026-03-26 09:28:29, INFO, Reading Line 321
+2026-03-26 09:28:29, ERROR, Invalid marks at line 321:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 322
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 323
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 324
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 325
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 326
+2026-03-26 09:28:29, ERROR, Invalid marks at line 326:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 327
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 328
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 329
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 330
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 331
+2026-03-26 09:28:29, ERROR, Invalid marks at line 331:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 332
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 333
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 334
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 335
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 336
+2026-03-26 09:28:29, ERROR, Invalid marks at line 336:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 337
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 338
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 339
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 340
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 341
+2026-03-26 09:28:29, ERROR, Invalid marks at line 341:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 342
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 343
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 344
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 345
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 346
+2026-03-26 09:28:29, ERROR, Invalid marks at line 346:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 347
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 348
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 349
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 350
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 351
+2026-03-26 09:28:29, ERROR, Invalid marks at line 351:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 352
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 353
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 354
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 355
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 356
+2026-03-26 09:28:29, ERROR, Invalid marks at line 356:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 357
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 358
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 359
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 360
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 361
+2026-03-26 09:28:29, ERROR, Invalid marks at line 361:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 362
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 363
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 364
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 365
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 366
+2026-03-26 09:28:29, ERROR, Invalid marks at line 366:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 367
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 368
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 369
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 370
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 371
+2026-03-26 09:28:29, ERROR, Invalid marks at line 371:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 372
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 373
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 374
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 375
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 376
+2026-03-26 09:28:29, ERROR, Invalid marks at line 376:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 377
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 378
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 379
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 380
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 381
+2026-03-26 09:28:29, ERROR, Invalid marks at line 381:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 382
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 383
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 384
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 385
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 386
+2026-03-26 09:28:29, ERROR, Invalid marks at line 386:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 387
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 388
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 389
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 390
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 391
+2026-03-26 09:28:29, ERROR, Invalid marks at line 391:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 392
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 393
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 394
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 395
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 396
+2026-03-26 09:28:29, ERROR, Invalid marks at line 396:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 397
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 398
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 399
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 400
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 401
+2026-03-26 09:28:29, ERROR, Invalid marks at line 401:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 402
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 403
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 404
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 405
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 406
+2026-03-26 09:28:29, ERROR, Invalid marks at line 406:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 407
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 408
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 409
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 410
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 411
+2026-03-26 09:28:29, ERROR, Invalid marks at line 411:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 412
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 413
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 414
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 415
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 416
+2026-03-26 09:28:29, ERROR, Invalid marks at line 416:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 417
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 418
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 419
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 420
+2026-03-26 09:28:29, ERROR, Invalid format at line 420:106,Anjali,91102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 421
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 422
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 423
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 424
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 425
+2026-03-26 09:28:29, ERROR, Invalid marks at line 425:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 426
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 427
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 428
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 429
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 430
+2026-03-26 09:28:29, ERROR, Invalid marks at line 430:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 431
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 432
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 433
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 434
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 435
+2026-03-26 09:28:29, ERROR, Invalid marks at line 435:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 436
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 437
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 438
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 439
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 440
+2026-03-26 09:28:29, INFO, Reading Line 441
+2026-03-26 09:28:29, ERROR, Invalid marks at line 441:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 442
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 443
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 444
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 445
+2026-03-26 09:28:29, ERROR, Invalid format at line 445:106,Anjali,91102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 446
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 447
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 448
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 449
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 450
+2026-03-26 09:28:29, INFO, Reading Line 451
+2026-03-26 09:28:29, ERROR, Invalid marks at line 451:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 452
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 453
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 454
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 455
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 456
+2026-03-26 09:28:29, ERROR, Invalid marks at line 456:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 457
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 458
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 459
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 460
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 461
+2026-03-26 09:28:29, ERROR, Invalid marks at line 461:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 462
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 463
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 464
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 465
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 466
+2026-03-26 09:28:29, ERROR, Invalid marks at line 466:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 467
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 468
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 469
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 470
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Reading Line 471
+2026-03-26 09:28:29, ERROR, Invalid marks at line 471:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 472
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 473
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 474
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 475
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, WARNING, Skipping empty line at line 476
+2026-03-26 09:28:29, INFO, Reading Line 477
+2026-03-26 09:28:29, ERROR, Invalid marks at line 477:102,Amit,abc
+2026-03-26 09:28:29, INFO, Reading Line 478
+2026-03-26 09:28:29, INFO, Successfully processed student_id=103
+2026-03-26 09:28:29, INFO, Reading Line 479
+2026-03-26 09:28:29, INFO, Successfully processed student_id=104
+2026-03-26 09:28:29, INFO, Reading Line 480
+2026-03-26 09:28:29, INFO, Successfully processed student_id=105
+2026-03-26 09:28:29, INFO, Reading Line 481
+2026-03-26 09:28:29, INFO, Successfully processed student_id=106
+2026-03-26 09:28:29, INFO, Process Completed. Total=481,success=371,Failed=95
